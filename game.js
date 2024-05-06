@@ -4,7 +4,7 @@ var userClickedPattern = [];
 var level = 0;
 var started = false;
 
-// Setting the next pattern
+// Setting the next pattern.
 function nextSequence(){
     // Reset user clicked pattern
     userClickedPattern = [];
